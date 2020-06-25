@@ -1,0 +1,34 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "fr.virgile62150.carry.clientcm"
+    },
+    "com.bez4pieci.cookies": {
+      "PACKAGE_NAME": "fr.virgile62150.carry.clientcm"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "fr.virgile62150.vigilie.clientcm"
+    },
+    "cordova-plugin-firebasex": {
+      "FIREBASE_ANALYTICS_COLLECTION_ENABLED": "true",
+      "FIREBASE_PERFORMANCE_COLLECTION_ENABLED": "true",
+      "FIREBASE_CRASHLYTICS_COLLECTION_ENABLED": "true",
+      "PACKAGE_NAME": "fr.virgile62150.vigilie.clientcm"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-androidx": {
+      "PACKAGE_NAME": "fr.virgile62150.vigilie.clientcm"
+    },
+    "cordova-plugin-androidx-adapter": {
+      "PACKAGE_NAME": "fr.virgile62150.vigilie.clientcm"
+    }
+  }
+}
